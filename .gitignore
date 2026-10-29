@@ -1,0 +1,29 @@
+*
+!*/
+
+# ROOT
+!.gitignore
+!.gitattributes
+!LICENSE
+!README.md
+!RULES.md
+!REPOS.md
+!_packages.tsv
+!repos.example.tsv
+!_to_add.txt
+!parcel.command
+!parcel.cmd
+!parcel.sh
+
+# PROJECTS
+packages/
+_state.tsv
+
+# EVERYWHERE
+paperfont/fonts/
+paperfont/.wrangler/
+paperfont/wrangler.toml
+**/.DS_Store
+**/node_modules/
+**/.env
+**/.env.*

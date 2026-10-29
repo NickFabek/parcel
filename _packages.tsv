@@ -1,0 +1,9 @@
+PACKAGE	URL	FILE	EXE
+uv	https://github.com/astral-sh/uv	uv-(aarch64|x86_64)-(apple-darwin|pc-windows-msvc|unknown-linux-gnu)(.tar.gz|.zip)	/uv,/uvx
+deno	https://github.com/denoland/deno	deno-(aarch64|x86_64)-(apple-darwin|pc-windows-msvc|unknown-linux-gnu).zip	deno
+workerd	https://github.com/cloudflare/workerd	workerd-(darwin|windows|linux)-(64|arm64).gz	workerd
+odin	https://github.com/odin-lang/Odin	odin-(macos|windows|linux)-(arm64|amd64)-dev-VERSION(.tar.gz|.zip)	/odin
+wasmtime	https://github.com/bytecodealliance/wasmtime	wasmtime-vVERSION-(aarch64|x86_64)-(macos|windows|linux)(.tar.xz|.zip)	wasmtime,wasmtime-min
+wgpu-native	https://github.com/gfx-rs/wgpu-native	wgpu-(macos|linux)-(aarch64|x86_64)-release.zip|wgpu-windows-(aarch64|x86_64)-(gnu|msvc)-release.zip	
+spacetime	https://github.com/clockworklabs/SpacetimeDB	spacetime-(aarch64|x86_64)-(apple-darwin|pc-windows-msvc|unknown-linux-gnu)(.tar.gz|.zip)	spacetimedb-cli,spacetimedb-standalone
+gh	https://github.com/cli/cli	gh_VERSION_(macOS|Linux|windows)_(arm64|x86_64|amd64)(.tar.gz|.zip)	gh
